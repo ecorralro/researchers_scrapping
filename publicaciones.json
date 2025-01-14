@@ -1,0 +1,407 @@
+[
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Accurate subvoxel location and characterization of edges in 3D images based on the Partial Volume Effect",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Trujillo-Pino, Agustín ; Aleman-Flores, Miguel ; Santana-Cedrés, Daniel ; Monzón López, Nelson Manuel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Automatic detection of anatomical landmarks of the aorta in CTA images",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Tahoces, Pablo G.; Santana-Cedrés, Daniel ; Alvarez, Luis ; Alemán-Flores, Miguel ; Trujillo, Agustín , et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Supervised classification of fully PolSAR images using active contour models",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Santana Cedres, Daniel Elias ; Gómez Déniz, Luis ; Trujillo Pino, Agustín Rafael ; Alemán Flores, Miguel ; Deriche, Rachid, et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Automatic estimation of the aortic lumen geometry by ellipse tracking",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Tahoces, Pablo G.; Alvarez, Luis ; González Sánchez, Esther ; Cuenca Hernández, Carmelo ; Trujillo Pino, Agustín Rafael , et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Segmentation of the aorta using active contours with histogram-based descriptors",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Santana-Cedrés, Daniel ; Alvarez, Luis ; Trujillo, Agustín ; Gómez, Luis , et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Filtering and segmentation of retinal OCT images",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alemán Flores, Rafael",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Estimation of the lens distortion model by minimizing a line reprojection error",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Santana-Cedrés, Daniel ; Gomez, Luis ; Alemán-Flores, Miguel ; Salgado de la Nuez, Agustín Javier ; Esclarín, Julio , et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Automatic correction of perspective and optical distortions",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Santana-Cedrés, Daniel ; Gomez, Luis ; Alemán-Flores, Miguel ; Salgado de la Nuez, Agustín Javier ; Esclarín, Julio , et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Tracking the aortic lumen geometry by optimizing the 3D orientation of its cross-sections",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alvarez, Luis ; Trujillo, Agustín ; Cuenca Hernández, Carmelo ; González Sánchez, Esther ; Esclarín, Julio , et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Robust detection of circles in the vessel contours and application to local probability density estimation",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alvarez, Luis ; González Sánchez, Esther ; Esclarín, Julio ; Gomez, Luis ; Alemán-Flores, Miguel , et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "An iterative optimization algorithm for lens distortion correction using two-parameter models",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Santana Cedres, Daniel Elias ; Gómez Déniz, Luis ; Alemán Flores, Miguel ; Salgado de la Nuez, Agustín ; Esclarín Monreal, Julio , et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Analysis of global and local intensity distributions for the segmentation of computed tomography images",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alemán-Flores, Patricia; Fuentes-Pavón, Rafael",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Invertibility and estimation of two-parameter polynomial and division lens distortion models",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Santana-Cedrés, Daniel ; Gomez, Luis ; Alemán-Flores, Miguel ; Salgado, Agustín ; Esclarín, Julio , et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Line detection in images showing significant lens distortion and application to distortion correction",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alvarez, Luis ; Gomez, Luis ; Santana-Cedrés, Daniel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Camera calibration in sport event scenarios",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, M. ; Álvarez, L ; Gomez, L. ; Henriquez, P.; Mazorra, L.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Automatic lens distortion correction using one-parameter division models",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Aleman-Flores, Miguel ; Alvarez, Luis ; Gomez, Luis ; Santana-Cedres, Daniel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Automatic corner matching in highly distorted images of Zhang’s calibration pattern",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alvarez, Luis ; Gomez, Luis ; Santana-Cedrés, Daniel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Wide-angle lens distortion correction using division models",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alvarez, Luis ; Gomez, Luis ; Santana-Cedreś, Daniel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Accurate subpixel edge location based on partial area effect",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Trujillo-Pino, Agustín ; Krissian, Karl; Alemán-Flores, Miguel ; Santana-Cedrés, Daniel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Augmented reality in sport scenarios using cameras mounted on a tripod",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán Flores, Miguel ; Álvarez León, Luis Miguel ; Henríquez Castellano, Pedro ; Trujillo-Pino, Agustín",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Segmentation of computed tomography 3D images using partial differential equations",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alvarez, L ; Alemán-Flores, Patricia; Fuentes-Pavón, Rafael",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Morphological thick line center detection",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alvarez, Luis ; Henríquez, Pedro; Mazorra, Luis",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "AmiLabContours: a tool for image structure segmentation",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alvarez, Luis ; Henríquez, Pedro",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Breast nodule ultrasound segmentation through texture-based active contours",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Aleman-Flores, Miguel ; Alvarez, Luis ; Caselles, Vicent",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Computer vision techniques for breast tumor ultrasound analysis",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Aleman-Flores, Miguel ; Aleman-Flores, Patricia ; Álvarez-Leon, Luis ; Fuentes-Pavón, Rafael; Santana-Montesdeoca, José M.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Filtering, segmentation and feature extraction in ultrasound evaluation of breast lesions",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alemán-Flores, Patricia; Álvarez-León, Luis ; Fuentes-Pavón, Rafael; Santana-Montesdeoca, José M.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Shape analysis for ultrasound breast lesion evaluation",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alemán-Flores, Patricia; Álvarez-León, Luis ; Fuentes-Pavón, Rafael; Santana-Montesdeoca, José M.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Texture-oriented anisotropic filtering and geodesic active contours in breast tumor ultrasound segmentation",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Aleman-Flores, Miguel ; Alvarez, Luis ; Caselles, Vicent",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Texture-based filtering and front-propagation techniques for the segmentation of ultrasound images",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Aleman-Flores, Patricia ; Álvarez-Leon, Luis ; Belén Esteban-Sánchez, M.; Fuentes-Pavón, Rafael, et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Segmentation and analysis of breast tumors on ultrasonography",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Alemán-Flores, Patricia; Álvarez-Leon, Luis ; Esteban-Sánchez, M. Belén; Fuentes-Pavon, Rafael, et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Semiautomatic snake-based segmentation of solid breast nodules on ultrasonography",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Aleman-Flores, P ; Álvarez-Leon, Luis ; Esteban-Sánchez, M. Belén; Fuentes-Pavón, Rafael, et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "La enseñanza de lenguas para fines específicos basada en sistemas web",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Cruz García, Laura ; Alemán Flores, Miguel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Optic flow estimation in fluid images I",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán Flores, Miguel ; Álvarez, L ; Gonzalez, E. ; Mazorra, L. ; Sánchez, J.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Computerized ultrasound characterization of breast tumors",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, M. ; Aleman-Flores, P ; Álvarez-León, L. ; Esteban-Sánchez, M. B.; Fuentes-Pavón, R., et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Computer-aided measurement of solid breast tumor features on ultrasound images",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Aleman-Flores, P ; Alvarez-Leon, L ; Santana-Montesdeoca, José Manuel; Fuentes-Pavon, Rafael, et al.",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Video segmentation through multiscale texture analysis",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Álvarez-Leon, Luis",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "A two-channel artificial vision system for motion analysis",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Quesada-Arencibia, Alexis ; Moreno-Díaz, Roberto ; Aleman-Flores, Miguel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Reusing problem solving methods in synthetic tasks",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Rodríguez-Rodríguez, Abraham ; Quintana-Dominguez, Francisca ; Alemán-Flores, Miguel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Frequency analysis of contour orientation functions for shape representation and motion analysis",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Álvarez-Leon, Luis ; Moreno-Díaz, Roberto",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Texture classification through multiscale orientation histogram analysis",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Álvarez-Leon, Luis",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Biologically based CAST-mechanism for visual motion analysis",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Quesada-Arencibia, A. ; Moreno-Diaz, Roberto ; Aleman-Flores, Miguel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Bases of a pre-attentional mechanism by means of presynaptic inhibition in the lateral geniculate nucleus",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Moreno-Diaz, Roberto ; Quesada-Arencibia, A. ; Aleman-Flores, Miguel",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Percepción visual y modelos computacionales: introducción a la biocibernética visual",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Moreno Díaz, Roberto ; Alemán Flores, Miguel ; Quesada-Arencibia, Alexis",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "Newton filters: a new class of neuron-like discrete filters and an application to image processing",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Quesada-Arencibia, A ; Aleman-Flores, M ; Moreno-Diaz, R",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    },
+    {
+        "Nombre": "Alemán Flores, Miguel",
+        "Título": "A computational model for visual size, location and movement",
+        "Descripción": null,
+        "Fecha de Publicación": null,
+        "Autor": "Alemán-Flores, Miguel ; Leibovic, K. Nicholas; Moreno-Díaz, Roberto",
+        "Categorías": null,
+        "Número de Comentarios": "0"
+    }
+]
