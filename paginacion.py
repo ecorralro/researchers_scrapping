@@ -2,20 +2,19 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import time
-import random
 
 # URL base de la página
 base_url = "https://accedacris.ulpgc.es"
 
 def get_detalle(publicacion_url):
     """
-    Extrae los detalles de una publicación específica desde su URL.
+    Extrae los detalles de una publicación específica desde su URL y verifica la existencia de un archivo PDF.
     
     Args:
         publicacion_url (str): URL de la publicación.
 
     Returns:
-        dict: Un diccionario con los detalles extraídos de la publicación.
+        dict: Un diccionario con los detalles extraídos de la publicación, incluyendo la URL del PDF si está disponible.
     """
     response = requests.get(publicacion_url)
     if response.status_code != 200:
@@ -39,12 +38,12 @@ def get_detalle(publicacion_url):
                 value = value.get_text(strip=True)
 
             detalles[label] = value
-            
+
     # Comprobar si existe un PDF en la publicación
     pdf_element = soup.find('a', href=True, target="_blank")
     if pdf_element and pdf_element['href'].endswith('.pdf'):
-        detalles['PDF'] = base_url + pdf_element['href']        
-            
+        detalles['PDF'] = base_url + pdf_element['href']
+
     return detalles
 
 def get_section_items(perfil_url, section_path, title_id):
@@ -128,56 +127,12 @@ def get_patentes(perfil_url):
 
 # Inicialización de la extracción de datos
 investigadores_lista = []
-page_number = 0 # 61 total
-limit_per_page = 20
+start = 0
+items_per_page = 20  # Número de elementos por página, ajustar según sea necesario
 
-while page_number < 2:
-    current_url = f"/simple-search?query=&location=researcherprofiles&start={page_number * limit_per_page}"
-    response = requests.get(base_url + current_url)
-
-    if response.status_code != 200:
-        break
-
-    soup = BeautifulSoup(response.content, 'html.parser')
-    investigadores = soup.find_all('div', class_='item-fields')
-
-    if not investigadores:
-        break
-
-    for investigador in investigadores:
-        nombre_elemento = investigador.find('div', id='crisrp.fullname')
-        nombre = nombre_elemento.text.strip() if nombre_elemento else "N/A"
-        perfil_url = base_url + nombre_elemento.find('a')['href'].strip() if nombre_elemento and nombre_elemento.find('a') else "N/A"
-
-        perfil_response = requests.get(perfil_url)
-        if perfil_response.status_code != 200:
-            continue
-
-        perfil_soup = BeautifulSoup(perfil_response.content, 'html.parser')
-        email_element = perfil_soup.find('div', id='emailDiv')
-        email = email_element.text.strip() if email_element else "N/A"
-
-        publicaciones = get_publicaciones(perfil_url)
-        proyectos = get_proyectos(perfil_url)
-        tesis = get_tesis(perfil_url)
-        patentes = get_patentes(perfil_url)
-
-        investigadores_lista.append({
-            "Nombre": nombre,
-            "URL del perfil": perfil_url,
-            "Perfil": {"Email": email},
-            "Publicaciones": publicaciones,
-            "Proyectos": proyectos,
-            "Tesis": tesis,
-            "Patentes": patentes
-        })
-
-        time.sleep(random.uniform(0.5, 2))
-
-    page_number += 1
-
-# Guardar resultados en un archivo JSON
-with open("investigadores_detalle.json", "w", encoding="utf-8") as file:
-    json.dump(investigadores_lista, file, ensure_ascii=False, indent=4)
-
-print(f"Extracción completa. Total investigadores extraídos: {len(investigadores_lista)}")
+while True:
+    current_url = f"{base_url}/simple-search?query=&location=researcherprofiles&start={start}"
+    response = requests.get(current_url)
+    if response.status
+::contentReference[oaicite:0]{index=0}
+ 
